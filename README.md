@@ -1,6 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-## NAME:AALIYA FATHIMA M
-## REG NO:212223230001
+## NAME:   C.DHANUSH
+## REG NO:212224040066
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
